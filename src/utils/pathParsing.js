@@ -25,5 +25,3 @@ export default function setPath(str, setLeagueId) {
             break
     }
 }
-
-function setRange() {}
