@@ -1,6 +1,6 @@
 ### `build`
 
-git clone https://github.com/dev-garam/EigeneaiTest.git
+git clone -b eigen https://github.com/dev-garam/EigeneaiTest.git
 
 cd {repo-name}
 
