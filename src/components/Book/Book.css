@@ -1,0 +1,49 @@
+.book {
+    display: flex;
+}
+
+.thumbnail {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 1px solid #e5e5e5;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 1px;
+    content: '';
+    margin-top: 20px;
+}
+
+.content {
+    float: left;
+    padding-bottom: 3px;
+    line-height: 15px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.title {
+    font-size: 20px;
+}
+
+.contents {
+    text-overflow: ellipsis;
+    width: 1080px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    line-height: 20px;
+}
+
+.etc {
+    color: #777;
+}
+
+.txt_bar {
+    color: #ededed;
+}
+
+.price {
+    color: #777;
+}
