@@ -1,14 +1,6 @@
 ### `build`
 
-git clone -b eigen https://github.com/dev-garam/EigenTest.git
-
-cd {repo-name}
-
-yarn
-
-yarn start
-
-Open [http://localhost:3000] to view it in the browser.
+kakao API daum searching
 
 <!-- # Getting Started with Create React App
 
